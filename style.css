@@ -1,0 +1,37 @@
+body{
+ 
+  background-color:white;
+  background: linear-gradient(to left, blue 0%, #abd164 100%);
+}
+h1{
+  text-shadow:2px 2px #ffffff;
+  font-size:20px;
+  text-align:center;
+}
+Img{
+  width:400px;
+  height:400px;
+  border-radius:50%;
+  text-align:center;
+  }
+p{
+  text-align:justify; 
+}
+.list{
+ list-style-type:none;
+ float:left;
+ margin-right:15px;
+ background-color:red;
+ text-shadow:2px 2px white;
+ height:20px;
+ line-height:20px;
+}
+p{
+  font-family: 'Nunito', sans-serif;
+}
+h1{
+  font-family: 'Nunito', sans-serif;
+}
+.list:hover{
+    background-color:orchid;
+}
